@@ -1,0 +1,1 @@
+../../bash/db_destruir_usuario.bash
