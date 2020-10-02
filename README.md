@@ -6,7 +6,7 @@
 
 ## Webminar
 
-[![Watch the video](imagenes/video.jpeg)](https://www.youtube.com/watch?v=dWhp43yMDt0)
+[![Watch the video](docs/imagenes/video.jpeg)](https://www.youtube.com/watch?v=dWhp43yMDt0)
 
 ## Demostración
 
