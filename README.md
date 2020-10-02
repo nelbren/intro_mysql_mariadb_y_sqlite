@@ -2,7 +2,7 @@
 
 ## Presentación
 
-[Introducción a MySQL, MariaDB y SQLite.pdf](https://raw.githubusercontent.com/nelbren/intro_mysql_mariadb_y_sqlite/master/Intro%20a%20MySQL%2C%20MariaDB%20y%20SQLite.pdf)
+[Introducción a MySQL, MariaDB y SQLite.pdf](https://raw.githubusercontent.com/nelbren/intro_mysql_mariadb_y_sqlite/master/Intro_a_MySQL_MariaDB_y_SQLite.pdf)
 
 ## Webminar
 
