@@ -15,6 +15,8 @@ class Speaker(Model):
 
     class Meta:
         database = db
+        db_table = 'speakers'
+
 def crear():
     MODELS = [ Speaker ]
     db.connect()

@@ -11,7 +11,7 @@ if 'mariadb' in path:
 else:
     base = 'devteam504.db'
     db = SqliteDatabase(base)
-nmax = 25
+nmax = 20
 
 class Speaker(Model):
     usuario = CharField(max_length=20,unique=True)
@@ -72,5 +72,5 @@ def destruir():
 crear()
 insertar()
 consultar()
-eliminar()
-destruir()
+#eliminar()
+#destruir()
