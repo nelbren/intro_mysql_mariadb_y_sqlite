@@ -13,12 +13,9 @@
 ### Códigos
 
 - **[bash](https://github.com/nelbren/intro_mysql_mariadb_y_sqlite/blob/master/bash/db_crear_bd.bash)**
-
 - **[python](https://github.com/nelbren/intro_mysql_mariadb_y_sqlite/tree/master/python)**
 
 ### Extras
 
 - **[sqlite-web](https://github.com/nelbren/intro_mysql_mariadb_y_sqlite/tree/master/sqlite/sqlite-web)**
 - **[python-rich](https://github.com/nelbren/intro_mysql_mariadb_y_sqlite/tree/master/mariadb/python-rich)**
-
-
